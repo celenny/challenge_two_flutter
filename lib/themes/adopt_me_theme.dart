@@ -6,8 +6,4 @@ ThemeData adoptMeTheme = ThemeData(
   primaryColor: AdoptMeColors.white,
   brightness: Brightness.light,
   scaffoldBackgroundColor: AdoptMeColors.lightGrey,
-
-  textTheme: TextTheme(
-    
-  ),
 );
