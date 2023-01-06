@@ -19,9 +19,11 @@ class AdoptMeColors {
 
   static const Color white = Color(0xffffffff);
   static const Color black = Color(0xFF000000);
-  static const Color lightGrey = Color(0xfff2f2f2);
-  static const Color grey = Color(0xffd5d5d5);
-  static const Color darkGrey = Color(0xff6d6d6d);
+  static const Color darkBlueGrey = Color(0xff263238);
+  static const Color iceWhite = Color(0xffeceff1);
+  static const Color lightGrey = Color(0xffc5c5c5); 
+  static const Color grey = Color(0xffbdbdbd); 
+  static const Color blueGrey = Color(0xff616161);
   static const Color lightPink = Color(0xffffe6e3);
   static const Color coralRed = Color(0xffff5f50);
 }

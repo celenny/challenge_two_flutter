@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:challenge_two_flutter/screens/home.dart';
+import 'package:challenge_two_flutter/screens/adopt_me_screen.dart';
 import 'package:challenge_two_flutter/themes/adopt_me_theme.dart';
 
 void main() {
@@ -13,7 +13,7 @@ class AdoptMe extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'AdoptMe',
-      home: const Home(),
+      home: const AdoptMeScreen(),
       theme: adoptMeTheme,
     );
   }

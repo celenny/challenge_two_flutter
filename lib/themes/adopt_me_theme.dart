@@ -5,5 +5,5 @@ ThemeData adoptMeTheme = ThemeData(
   primarySwatch: AdoptMeColors.primaryColor,
   primaryColor: AdoptMeColors.white,
   brightness: Brightness.light,
-  scaffoldBackgroundColor: AdoptMeColors.lightGrey,
+  scaffoldBackgroundColor: AdoptMeColors.iceWhite,
 );
